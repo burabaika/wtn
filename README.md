@@ -1,7 +1,9 @@
 # wtn
 Windows Telegram Notifier
+
 Скрипт шлёт заданные уведомления в телегу из под винды. 
 Сообщением может быть "что угодно", на Ваше усмотрение.
+
 The script sends specified notifications to Telegram from Windows.
 The message can be "anything", at your discretion.
 
@@ -10,7 +12,6 @@ How to:
 2. Change bot token in txt file (it's random in repo)
 3. call notication by: stm.bat "message" "chat_id"
 
-Уведомления Telegram для Windows
 
 Как юзать:
 1. Скачай все 3 файла, положи куда удобно
