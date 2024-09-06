@@ -1,5 +1,9 @@
 # wtn
 Windows Telegram Notifier
+Скрипт шлёт заданные уведомления в телегу из под винды. 
+Сообщением может быть "что угодно", на Ваше усмотрение.
+The script sends specified notifications to Telegram from Windows.
+The message can be "anything", at your discretion.
 
 How to:
 1. Download all 3 files, put where you want
