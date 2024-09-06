@@ -2,4 +2,6 @@
 Windows Telegram Notifier
 
 How to:
-*full_path_to_bat*\stm.bat "message" "chat_id"
+1. Download all 3 files, put where you want
+2. Change bot token in txt file (it's random in repo)
+3. call notication by: stm.bat "message" "chat_id"
