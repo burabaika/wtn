@@ -4,7 +4,7 @@ Param (
 )
 
 # Параметры бота
-$tokenFilePath = "bot_token.txt"
+$tokenFilePath = Join-Path -Path $PSScriptRoot -ChildPath "bot_token.txt"
 $botToken = Get-Content -Path $tokenFilePath -Raw
 $botToken = $botToken.Trim()  # Убираем лишние пробелы и переносы строк
 
